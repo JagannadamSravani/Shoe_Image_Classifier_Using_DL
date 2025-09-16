@@ -57,3 +57,14 @@ Python libraries:
    git clone https://github.com/JagannadamSravani/Shoe_Image_Classifier_Using_DL.git
    cd Shoe_Image_Classifier_Using_DL
 
+2. 
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # for Linux/Mac
+   venv\Scripts\activate      # for Windows
+   cd language-detection-using-NLP
+
+3.
+   ```bash
+   pip install -r requirements.txt
+
